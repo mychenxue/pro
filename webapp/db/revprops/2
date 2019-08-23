@@ -1,0 +1,165 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-23T07:05:42.413575Z
+K 7
+svn:log
+V 7016
+初始项目
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Global Variables
+[CHANGED]  Widget Style Sheet
+[CHANGED]  Widget Notes Fields And Sets
+[CHANGED]  Page Notes Fields
+[CHANGED]  Sitemap
+[CHANGED]  Master List
+[ADDED]    (Page)      服务工作台-评价服务商-bak
+[ADDED]    (Page)      点击店铺精选页面显示
+[ADDED]    (Page)      发布需求-线索分类 网络广告媒介集合
+[ADDED]    (Page)      点账户余额-银行卡管理-银行卡未绑定
+[ADDED]    (Page)      企业实名-填写法人信息
+[ADDED]    (Page)      首页搜索-店铺结果页面
+[ADDED]    (Page)      点击评价页面显示
+[ADDED]    (Page)      店铺档案
+[ADDED]    (Page)      填写合同内容
+[ADDED]    (Page)      发布线索增值服支付页面
+[ADDED]    (Page)      服务工作台-关闭需求/退款
+[ADDED]    (Page)      服务工作台-未托管
+[ADDED]    (Page)      媒介资质
+[ADDED]    (Page)      服务工作台-服务商工作中
+[ADDED]    (Page)      账户余额
+[ADDED]    (Page)      服务工作台-验收付款完成
+[ADDED]    (Master)    新母版 2
+[ADDED]    (Page)      我发布的线索
+[ADDED]    (Page)      首页搜索页面
+[ADDED]    (Page)      添加媒介资质
+[ADDED]    (Page)      技能管理
+[ADDED]    (Page)      工作经历
+[ADDED]    (Page)      服务工作台-评价服务商
+[ADDED]    (Page)      点击详情页面显示
+[ADDED]    (Page)      认证结果-企业实名验证失败
+[ADDED]    (Page)      购买服务
+[ADDED]    (Page)      审核未通过
+[ADDED]    (Page)      服务工作台-申请验收付款
+[ADDED]    (Page)      等待审核
+[ADDED]    (Page)      收银台
+[ADDED]    (Page)      修改密码
+[ADDED]    (Page)      昵称修改页面
+[ADDED]    (Page)      银行卡管理-银行卡未绑定
+[ADDED]    (Page)      新人专享
+[ADDED]    (Page)      提交服务订单
+[ADDED]    (Page)      线索详情页-服务商，游客
+[ADDED]    (Page)      企业实名-填写对公账户信息
+[ADDED]    (Page)      线索详情页-雇主
+[ADDED]    (Page)      手绘签名
+[ADDED]    (Page)      我的评价-服务商评价我的
+[ADDED]    (Master)    顶部菜单
+[ADDED]    (Page)      添加自传资质
+[ADDED]    (Page)      客户示例
+[ADDED]    (Page)      我的发票
+[ADDED]    (Page)      查看技术费率
+[ADDED]    (Page)      我的退款
+[ADDED]    (Page)      订单支付
+[ADDED]    (Page)      查看二级三级类目
+[ADDED]    (Page)      未登录状态 点首页消息 弹出登录框2 账户密码登录
+[ADDED]    (Page)      个人实名验证验证成功
+[ADDED]    (Page)      修改密码
+[ADDED]    (Page)      个人实名验证验证成功 3秒后效果
+[ADDED]    (Page)      服务商我的主页
+[ADDED]    (Page)      服务工作台-服务商工作中
+[ADDED]    (Page)      添加类目
+[ADDED]    (Page)      实名认证初始
+[ADDED]    (Master)    新母版 1
+[ADDED]    (Page)      企业实名-填写企业信息
+[ADDED]    (Page)      交易评价
+[ADDED]    (Page)      服务工作台-评价完成
+[ADDED]    (Page)      修改绑定手机-验证原手机
+[ADDED]    (Page)      分类页面
+[ADDED]    (Page)      银行卡管理-添加个人银行卡
+[ADDED]    (Page)      实名认证-企业对公账户打款回填
+[ADDED]    (Page)      完善店铺资料-个人
+[ADDED]    (Page)      热卖媒体
+[ADDED]    (Page)      订单支付
+[ADDED]    (Page)      服务工作台-验收付款完成
+[ADDED]    (Page)      查看合同内容
+[ADDED]    (Page)      点击服务页面显示
+[ADDED]    (Master)    使用提示
+[ADDED]    (Page)      实名认证-上传法人信息
+[ADDED]    (Page)      审核未通过
+[ADDED]    (Page)      店铺页面头部公共
+[ADDED]    (Page)      首页
+[ADDED]    (Page)      服务工作台-评价完成
+[ADDED]    (Page)      服务工作台-已托管未接单
+[ADDED]    (Page)      线索大厅
+[ADDED]    (Page)      线索详情页-雇主 (备用)
+[ADDED]    (Page)      发布需求-线索分类 移动广告
+[ADDED]    (Page)      服务详情
+[ADDED]    (Page)      实名认证-个人
+[ADDED]    (Page)      实名认证-企业对公账户信息
+[ADDED]    (Page)      余额明细
+[ADDED]    (Page)      我的-登录状态
+[ADDED]    (Page)      查看合同内容 有签署按钮
+[ADDED]    (Page)      银行卡管理-添加对公银行卡
+[ADDED]    (Page)      我的订单
+[ADDED]    (Page)      服务工作台-已托管已接单未签合同
+[ADDED]    (Page)      入驻介绍
+[ADDED]    (Page)      发布-线索
+[ADDED]    (Page)      完善店铺资料-企业
+[ADDED]    (Page)      补充内容
+[ADDED]    (Page)      New Page 1
+[ADDED]    (Page)      工具市场列表
+[ADDED]    (Page)      添加领域
+[ADDED]    (Page)      服务工作台-已托管已接单未签合同
+[ADDED]    (Page)      工具-会员升级详情
+[ADDED]    (Page)      认证结果
+[ADDED]    (Page)      实名认证-初始
+[ADDED]    (Master)    底部导航
+[ADDED]    (Page)      服务列表
+[ADDED]    (Page)      隶属媒体公司
+[ADDED]    (Page)      认证结果-企业实名验证成功
+[ADDED]    (Page)      联系地址
+[ADDED]    (Page)      我的评价-我评价服务商的
+[ADDED]    (Page)      线索详情页-雇主 (1)
+[ADDED]    (Page)      服务工作台-评价雇主
+[ADDED]    (Page)      服务需求详情
+[ADDED]    (Page)      我的-未登录状态
+[ADDED]    (Page)      工具市-技能类目详情
+[ADDED]    (Page)      服务工作台-服务商完成工作
+[ADDED]    (Page)      新闻资讯列表
+[ADDED]    (Page)      提现
+[ADDED]    (Page)      服务评价详情
+[ADDED]    (Page)      企业实名-对公账户打款
+[ADDED]    (Page)      店铺街筛选
+[ADDED]    (Page)      新手任务
+[ADDED]    (Page)      添加工作经历
+[ADDED]    (Page)      银行卡管理-已绑定列表
+[ADDED]    (Page)      线索详情页-雇主 -展开效果
+[ADDED]    (Page)      线索大厅 -筛选页面
+[ADDED]    (Page)      自传资质
+[ADDED]    (Page)      首页搜索列表页面 ，再点击搜素框
+[ADDED]    (Page)      我的消息-交易消息
+[ADDED]    (Page)      认证结果
+[ADDED]    (Page)      修改绑定手机-验证新手机
+[ADDED]    (Page)      实名认证-上传企业信息
+[ADDED]    (Page)      服务商购买线索
+[ADDED]    (Page)      点账户余额，未实名认证打开页面
+[ADDED]    (Page)      店铺买服务
+[ADDED]    (Page)      缴纳保证金
+[ADDED]    (Page)      个人实名-填写个人信息
+[ADDED]    (Page)      未登录状态 点首页消息 弹出登录框 1手机验证码登录
+[ADDED]    (Page)      服务工作台-未托管
+[ADDED]    (Page)      我的消息
+[ADDED]    (Page)      我的消息-系统消息
+[ADDED]    (Page)      客户示例详情
+[ADDED]    (Page)      需求分类
+[ADDED]    (Page)      服务工作台-关闭需求/退款
+[ADDED]    (Page)      等待审核
+[ADDED]    (Page)      账号管理
+[ADDED]    (Page)      注册
+--------------------------</AXCHECKIN>
+END
