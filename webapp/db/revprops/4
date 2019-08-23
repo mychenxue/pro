@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-23T08:09:03.194968Z
+K 7
+svn:log
+V 149
+删除测试文件
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[DELETED]  (Page)      New Page 1
+--------------------------</AXCHECKIN>
+END
