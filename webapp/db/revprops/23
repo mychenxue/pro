@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-24T07:41:37.583716Z
+K 7
+svn:log
+V 282
+1
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  站点地图
+[CHANGED]  (Page)      账户余额
+[DELETED]  (Page)      点账户余额-银行卡管理-银行卡未绑定
+[DELETED]  (Page)      点账户余额，未实名认证打开页面
+--------------------------</AXCHECKIN>
+END

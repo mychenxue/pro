@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-24T11:04:02.565577Z
+K 7
+svn:log
+V 423
+修改分类
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Widget Style Sheet
+[CHANGED]  Sitemap
+[CHANGED]  Master List
+[CHANGED]  (Master)    顶部菜单
+[CHANGED]  (Page)      分类
+[CHANGED]  (Page)      首页
+[CHANGED]  (Page)      我的消息-交易消息
+[ADDED]    (Master)    底部导航菜单
+[DELETED]  (Page)      我是测试1111
+[DELETED]  (Page)      New Page 1
+--------------------------</AXCHECKIN>
+END

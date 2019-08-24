@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-24T06:59:26.418831Z
+K 7
+svn:log
+V 333
+ 修改标题首页等 
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[CHANGED]  (Page)      我的保证金
+[CHANGED]  (Page)      分类
+[CHANGED]  (Page)      首页
+[CHANGED]  (Page)      新手任务
+[ADDED]    (Page)      新闻资讯详情
+[DELETED]  (Page)      我是测试
+--------------------------</AXCHECKIN>
+END
