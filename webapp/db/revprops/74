@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-29T06:14:59.868940Z
+K 7
+svn:log
+V 268
+修改分类和线索大厅
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[CHANGED]  (Page)      新手任务
+[CHANGED]  (Page)      查看类目
+[CHANGED]  (Page)      添加类目
+[CHANGED]  (Page)      线索大厅
+--------------------------</AXCHECKIN>
+END

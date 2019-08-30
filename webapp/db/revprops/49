@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-26T10:16:58.549516Z
+K 7
+svn:log
+V 586
+修改页面交互跳转
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[CHANGED]  (Page)      店铺档案
+[CHANGED]  (Page)      新人专享
+[CHANGED]  (Page)      客户示例
+[CHANGED]  (Page)      交易评价
+[CHANGED]  (Page)      工具市场列表
+[CHANGED]  (Page)      工具-会员升级详情
+[CHANGED]  (Page)      工具市-技能类目详情
+[CHANGED]  (Page)      店铺买服务
+[CHANGED]  (Page)      客户示例详情
+[ADDED]    (Page)      工具市场-订单支付
+[DELETED]  (Page)      店铺页面头部公共
+--------------------------</AXCHECKIN>
+END

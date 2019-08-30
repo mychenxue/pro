@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-26T08:50:34.617368Z
+K 7
+svn:log
+V 274
+020
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  站点地图
+[ADDED]    (Page)      银行卡管理-银行卡未绑定 (1)
+[DELETED]  (Page)      银行卡管理-银行卡未绑定
+[DELETED]  (Page)      我的消息-交易消息
+--------------------------</AXCHECKIN>
+END

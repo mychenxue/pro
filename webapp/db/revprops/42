@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-26T09:07:40.701700Z
+K 7
+svn:log
+V 404
+修改交互跳转
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[CHANGED]  (Page)      提交服务订单
+[CHANGED]  (Page)      分类
+[CHANGED]  (Page)      热卖媒体
+[CHANGED]  (Page)      首页
+[CHANGED]  (Page)      服务详情
+[CHANGED]  (Page)      服务列表
+[ADDED]    (Page)      移动广告
+[ADDED]    (Page)      服务列表-品牌
+--------------------------</AXCHECKIN>
+END

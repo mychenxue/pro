@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 6
+HIAPAD
+K 8
+svn:date
+V 27
+2019-08-28T01:55:34.430020Z
+K 7
+svn:log
+V 456
+修改实名认证
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[CHANGED]  (Page)      服务详情
+[CHANGED]  (Page)      审核未通过
+[CHANGED]  (Page)      等待审核
+[CHANGED]  (Page)      企业实名-填写对公账户信息
+[CHANGED]  (Page)      服务工作台-验收付款完成
+[CHANGED]  (Page)      审核未通过
+[CHANGED]  (Page)      认证结果
+[CHANGED]  (Page)      等待审核
+--------------------------</AXCHECKIN>
+END
